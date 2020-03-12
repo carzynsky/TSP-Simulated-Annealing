@@ -1,0 +1,6 @@
+﻿  Simulated_Annealing.cpp
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(22,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(54,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(77,9): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(87,10): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  PEA2.vcxproj -> C:\Users\Arek\source\repos\PEA2\Debug\PEA2.exe

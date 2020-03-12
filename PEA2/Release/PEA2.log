@@ -1,0 +1,24 @@
+﻿  LMatrix.cpp
+C:\Users\Arek\source\repos\PEA2\PEA2\LMatrix.cpp(44,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Arek\source\repos\PEA2\PEA2\LMatrix.cpp(46,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Arek\source\repos\PEA2\PEA2\LMatrix.cpp(70,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+C:\Users\Arek\source\repos\PEA2\PEA2\LMatrix.cpp(77,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Arek\source\repos\PEA2\PEA2\main.cpp(83,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Simulated_Annealing.cpp
+C:\Users\Arek\source\repos\PEA2\PEA2\main.cpp(95,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(22,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(54,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(77,9): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  Time_Counter.cpp
+C:\Users\Arek\source\repos\PEA2\PEA2\Simulated_Annealing.cpp(87,10): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Time_Counter.cpp(24,82): warning C4244: "return": konwersja z "_Rep" do "long", możliwa utrata danych
+C:\Users\Arek\source\repos\PEA2\PEA2\Time_Counter.cpp(24,82): warning C4244:         with
+C:\Users\Arek\source\repos\PEA2\PEA2\Time_Counter.cpp(24,82): warning C4244:         [
+C:\Users\Arek\source\repos\PEA2\PEA2\Time_Counter.cpp(24,82): warning C4244:             _Rep=__int64
+C:\Users\Arek\source\repos\PEA2\PEA2\Time_Counter.cpp(24,82): warning C4244:         ]
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 379 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  PEA2.vcxproj -> C:\Users\Arek\source\repos\PEA2\Release\PEA2.exe
